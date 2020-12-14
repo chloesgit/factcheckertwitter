@@ -1,0 +1,10 @@
+#Clés d'accès pour Twitter
+import tweepy
+
+#Consume
+CONSUMER_KEY = "OcAMnPse8d3AL6fywsYoMuZ0R"
+CONSUMER_SECRET = "p6qvvjp0wNFTKNHzVbwTe7S9I8gcopOfaTcW5aiPjyUSlPvqt9"
+
+#Access
+ACCESS_TOKEN = "1194266148084371456-XNzdWAP8Ylb6GuSaN4i54k6O5Ormak"
+ACCESS_SECRET = "ZCxZs2oV2TgCq7ZQBpz9ZnlruQCtcLCqAM98UgSriJwWB"
